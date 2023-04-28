@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7f8ed;
+}
+
+button {
+    margin-top: 0;
+    text-align: center;
+    background-color: #c4eed0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+h2 {
+    margin-top: 0;
+}
