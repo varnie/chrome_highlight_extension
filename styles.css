@@ -1,4 +1,4 @@
-body {
+body#popup-body {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -6,16 +6,16 @@ body {
     background-color: #e7f8ed;
 }
 
-button {
+button#send-html-button {
     margin-top: 0;
     text-align: center;
     background-color: #c4eed0;
 }
 
-button:hover {
+button#send-html-button:hover {
     cursor: pointer;
 }
 
-h2 {
+h2#named-entities-recognition {
     margin-top: 0;
 }
